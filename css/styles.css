@@ -1,0 +1,16 @@
+* {
+    --brand-color: rgb(38, 130, 236);
+}
+
+html, body {
+    background-color: #333;
+}
+
+.box {
+    color: white;
+    background-color: var(--brand-color);
+    margin: 10vmin;
+}
+.title {
+    color: white;
+}
